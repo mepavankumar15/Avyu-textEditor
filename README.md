@@ -1,4 +1,4 @@
-# MyTextEditor
+# simple text Editor
 
 A lightweight text editor built with C# and Windows Forms.
 
